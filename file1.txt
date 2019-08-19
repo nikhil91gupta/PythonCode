@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Adding some code here
-=======
-Adding some code here
-adding the second line
->>>>>>> c909a3b130aa2c7abd834c1646949bf2a017569a
